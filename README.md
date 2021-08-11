@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Doğukan. 23 Years old, Computer Engineering Student at Ondokuz Mayıs University(Soon to be Graduated), Someday wants to be a Game Dev.
+
+🔭 I’m currently working on C#
+🌱 I’m currently learning Flutter, PHP, JSP
+------------------------------------------------
+📫 How to reach me
+E-mail : nosteam9@gmail.com
+Linkedin : https://www.linkedin.com/in/dgknblc/
+
 <!--
 **DgknBlc/DgknBlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
