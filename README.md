@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Doğukan. 23 Years old, Computer Engineering Student at Ondokuz Mayıs University(Soon to be Graduated), Someday wants to be a Game Dev.
+I'm Doğukan. 24 Years old, Working at Payguru as a junior software developer, Someday wants to be a Game Dev.
 
-🔭 I’m currently working on C# and UNITY
+🔭 I’m currently working on Java, Node.js, Php
 
-🌱 I’m currently learning Flutter, PHP, JSP
+🌱 I’m currently learning C#
 
 ------------------------------------------------
 📫 How to reach me
