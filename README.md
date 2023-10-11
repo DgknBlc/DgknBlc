@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Doğukan. 25 Years old, Working at Payguru as a junior software developer, Someday wants to be a Game Dev.
+I'm Doğukan. 25 Years old, Working at Payguru as a software developer, Someday wants to be a Game Dev.
 
 🔭 I’m currently working on Java, Node.js, Php
 
