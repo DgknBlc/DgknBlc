@@ -5,7 +5,7 @@ I'm Doğukan. Software developer,
 
 ------------------------------------------------
 📫 How to reach me
-E-mail : nosteam9@gmail.com (Personal)
+E-mail : dbalci.dev@gmail.com
 Linkedin : https://www.linkedin.com/in/dgknblc/
 
 <!--
